@@ -22,6 +22,9 @@ Semua file preset di bawah ini bisa kamu temukan di dalam folder `preset/`.
 | **Folk & Ballad** | `iwan fals` | Menonjolkan vokal bariton yang tebal dan tekstur instrumen harmonika yang garing. |
 | **Mellow & Relax** | `acoustic` | Fokus pada kejernihan petikan senar gitar dan vokal yang intim/hangat. |
 | **Reggae & Dub** | `reggae` | Low-end yang "gemuk" dan bulat dengan penekanan pada rhythm gitar "skank". |
+| **Punk & Folk** | `celtic punk (the cloves)` | Mix agresif antara kick drum punk dan ketajaman tin whistle/fiddle yang melengking. |
+| **Ska & Reggae** | `ska (tipe-x)` | Optimasi instrumen tiup (brass) yang tajam dan guitar skank yang garing. |
+| **Ska & Swing** | `doggie style (shaggydog)` | Mix groovy antara walking bass yang tebal dan brass section yang classy. |
 
 ---
 
