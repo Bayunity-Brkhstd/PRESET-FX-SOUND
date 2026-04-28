@@ -75,6 +75,6 @@ Repositori ini dikelola oleh:
 ---
 
 ## 📄 Lisensi & Disclaimer
-Hasil suara final sangat bergantung pada hardware yang digunakan. Feel free to tweak!
+Hasil suara final sangat bergantung pada hardware yang digunakan. Feel free to tweak! bebas pokoknya
 
-Copyright (c) 2026 **BRKH Studio**.
+Copyright (c) 2026 **BAYUNITY**.
