@@ -39,6 +39,14 @@ Semua file preset di bawah ini bisa kamu temukan di dalam folder `preset/`.
 
 ---
 
+## 🎧 Hardware Notes 
+Preset di atas dioptimasi menggunakan **Sony SRS-D4 2.1 Speaker System (27W RMS)**. Jika kamu menggunakan speaker yang sama, perhatikan hal berikut:
+* **Subwoofer Control:** Karena Sony SRS-D4 memiliki subwoofer fisik yang cukup dominan, disarankan untuk tidak mengatur `Bass Boost` melebihi angka **6** di FxSound untuk menghindari distorsi.
+* **Treble Clarity:** Jika vokal terasa agak tertutup oleh bass, naikkan frekuensi **4.89 kHz** dan **9.06 kHz** sebanyak **+2** poin dari preset yang tersedia.
+* **Volume Management:** Untuk performa terbaik, atur volume fisik speaker di posisi jam 12 (50%), lalu gunakan FxSound untuk *fine-tuning* harian.
+
+---
+
 ## 🛠️ Tech Stack
 - **Engine:** FxSound Audio Enhancer.
 - **Optimization:** Manual Parametric EQ Tuning, Dynamic Boost Calibration, & Clarity Enhancement.
