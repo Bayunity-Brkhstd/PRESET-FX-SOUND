@@ -1,4 +1,3 @@
-[README_v2.md](https://github.com/user-attachments/files/27177825/README_v2.md)
 # PRESET-FX-SOUND 🎧
 
 Koleksi preset custom **FxSound (.fac)** yang dioptimasi secara presisi untuk berbagai genre musik, era, dan kebutuhan audio. Dibuat untuk memaksimalkan performa hardware audio kamu agar menghasilkan suara yang lebih bertenaga, jernih, dan berkarakter.
@@ -25,6 +24,7 @@ Semua file preset di bawah ini bisa kamu temukan di dalam folder `preset/`.
 | **Punk & Folk** | `celtic punk (the cloves)` | Mix agresif antara kick drum punk dan ketajaman tin whistle/fiddle yang melengking. |
 | **Ska & Reggae** | `ska (tipe-x)` | Optimasi instrumen tiup (brass) yang tajam dan guitar skank yang garing. |
 | **Ska & Swing** | `doggie style (shaggydog)` | Mix groovy antara walking bass yang tebal dan brass section yang classy. |
+| **Hiphop & Koplo** | `hiphop dangdut (ndx aka)` | Kombinasi sub-bass 808 yang deep dengan hi-hats tajam khas trap/koplo. |
 
 ---
 
