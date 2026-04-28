@@ -59,13 +59,12 @@ Untuk pengguna IEM seperti **QKZ MK4**, gunakan panduan tuning berikut:
 * **Vocal Forward:** Gunakan boost pada **416 Hz** dan **1.42 kHz** agar suara penyanyi terasa lebih dekat ke telinga.
 * **Ear Fatigue Prevention:** Jangan mengatur `High Freq` terlalu ekstrem (> +7) untuk menghindari rasa tidak nyaman saat penggunaan jangka panjang.
 * Gunakan panduan pengurangan poin berikut untuk menjaga kenyamanan pendengaran:
-| Parameter, | | Penyesuaian, | | Alasan Teknis |
-| High Freq (4.89kHz+) | | Turunkan 2-4 Poin, | | Mencegah suara crash simbal yang terlalu tajam di lubang telinga. |
-| Clarity,| | Turunkan 2 Poin, | | Menyeimbangkan detail bawaan driver IEM agar tetap natural. |
-| Dynamic Boost,| | Turunkan 2 Poin,| | Mengurangi tekanan suara agresif langsung ke gendang telinga. |
-| Mid-Low (225 Hz), | | Turunkan 3-5 Poin, | | "Menghilangkan kesan suara ""mendem"" atau boxiness pada IEM budget." |
-  
-
+| Parameter | Penyesuaian | Alasan Teknis |
+| :--- | :--- | :--- |
+| **High Freq (4.89kHz+)** | Turunkan 2-4 Poin | Mencegah suara *crash* simbal yang terlalu tajam di lubang telinga. |
+| **Clarity** | Turunkan 2 Poin | Menyeimbangkan detail bawaan driver IEM agar tetap natural. |
+| **Dynamic Boost** | Turunkan 2 Poin | Mengurangi tekanan suara agresif langsung ke gendang telinga. |
+| **Mid-Low (225 Hz)** | Turunkan 3-5 Poin | Menghilangkan kesan suara "mendem" atau *boxiness* pada IEM budget. |
 ---
 
 ## 🤝 Open for Contributions!
