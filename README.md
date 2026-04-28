@@ -53,6 +53,15 @@ Untuk pengguna speaker gaming USB seperti **Kisonli U2500BT**, disarankan melaku
 
 ---
 
+## 🤝 Open for Contributions!
+Punya tuningan yang lebih mantap atau punya settingan khusus untuk hardware tertentu? Yuk ikutan kontribusi!
+1. **Fork** repository ini.
+2. Tambahkan file `.fac` baru kamu ke folder `preset/`.
+3. Update tabel di `README.md` dengan deskripsi presetmu.
+4. Kirim **Pull Request**! 🚀
+
+---
+
 ## 🛠️ Tech Stack
 - **Engine:** FxSound Audio Enhancer.
 - **Optimization:** Manual Parametric EQ Tuning, Dynamic Boost Calibration, & Clarity Enhancement.
@@ -60,13 +69,12 @@ Untuk pengguna speaker gaming USB seperti **Kisonli U2500BT**, disarankan melaku
 ---
 
 ## ✒️ Creator
-Repositori ini dikembangkan dan dikelola oleh:
-- **Nama:** Bayu Abimanyu (**Bayunity**)
-- **Role:** orang gabut & Tech Enthusiast.
-
+Repositori ini dikelola oleh:
+- **Nama:** Bayu Abimanyu (**Bayunity**)(https://github.com/Bayunity-Brkhstd)
+- **Role:** wong gabut & Tech Enthusiast
 ---
 
 ## 📄 Lisensi & Disclaimer
-Koleksi ini bersifat terbuka untuk digunakan secara pribadi. Hasil suara final sangat bergantung pada kualitas speaker atau headphone yang kamu gunakan. Jangan ragu untuk melakukan *tweak* lebih lanjut sesuai selera telinga masing-masing.
+Hasil suara final sangat bergantung pada hardware yang digunakan. Feel free to tweak!
 
-Copyright (c) 2026 **BAYUNITY**.
+Copyright (c) 2026 **BRKH Studio**.
