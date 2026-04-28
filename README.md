@@ -53,8 +53,8 @@ Untuk pengguna speaker gaming USB seperti **Kisonli U2500BT**, disarankan melaku
 * **Clarity Priority:** Set `Clarity` di angka **6-7** untuk menyeimbangkan satelit yang cenderung dominan di mid-high.
 * **Power Limit:** Hindari `Bass Boost` di atas **6** karena limitasi power USB dapat menyebabkan suara pecah pada volume tinggi.
 
-## 🎧 Hardware Notes (QKZ MK4 IEM)
-Untuk pengguna IEM seperti **QKZ MK4**, gunakan panduan tuning berikut:
+## 🎧 Hardware Notes (QKZ AK6 IEM)
+Untuk pengguna IEM seperti **QKZ AK6**, gunakan panduan tuning berikut:
 * **V-Shape Correction:** Fokus pada pengurangan frekuensi **225 Hz** untuk menghilangkan kesan suara yang "tertutup".
 * **Vocal Forward:** Gunakan boost pada **416 Hz** dan **1.42 kHz** agar suara penyanyi terasa lebih dekat ke telinga.
 * **Ear Fatigue Prevention:** Jangan mengatur `High Freq` terlalu ekstrem (> +7) untuk menghindari rasa tidak nyaman saat penggunaan jangka panjang.
