@@ -90,7 +90,18 @@ Punya tuningan yang lebih mantap atau punya settingan khusus untuk hardware tert
 Repositori ini dikelola oleh:
 - **Nama:** Bayu [Bayunity](https://github.com/Bayunity-Brkhstd)
 - **Role:** wong gabut & Tech Enthusiast
+
 ---
+
+### ☕ Support the Creator
+Suka sama preset atau tools yang gue buat? Dukung gue buat tetep produktif bikin konten bermanfaat lainnya di sini:
+
+[![Trakteer](https://img.shields.io/badge/Trakteer-Dukung%20Saya-red?style=for-the-badge&logo=trakteer)](https://trakteer.id/bulan_lapan)
+
+Terima kasih buat dukungannya, *happy listening and happy designing!*
+
+---
+
 
 ## 📄 Lisensi & Disclaimer
 Hasil suara final sangat bergantung pada hardware yang digunakan. Feel free to tweak! bebas pokoknya
