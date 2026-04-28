@@ -45,6 +45,12 @@ Preset di atas dioptimasi menggunakan **Sony SRS-D4 2.1 Speaker System (27W RMS)
 * **Treble Clarity:** Jika vokal terasa agak tertutup oleh bass, naikkan frekuensi **4.89 kHz** dan **9.06 kHz** sebanyak **+2** poin dari preset yang tersedia.
 * **Volume Management:** Untuk performa terbaik, atur volume fisik speaker di posisi jam 12 (50%), lalu gunakan FxSound untuk *fine-tuning* harian.
 
+## 🔊 Hardware Notes (Kisonli U2500BT 2.1)
+Untuk pengguna speaker gaming USB seperti **Kisonli U2500BT**, disarankan melakukan penyesuaian berikut:
+* **Mid-Bass Focus:** Fokuskan boost pada frekuensi **122 Hz** daripada **62 Hz** untuk mendapatkan tenaga maksimal tanpa distorsi pada subwoofer.
+* **Clarity Priority:** Set `Clarity` di angka **6-7** untuk menyeimbangkan satelit yang cenderung dominan di mid-high.
+* **Power Limit:** Hindari `Bass Boost` di atas **6** karena limitasi power USB dapat menyebabkan suara pecah pada volume tinggi.
+
 ---
 
 ## 🛠️ Tech Stack
