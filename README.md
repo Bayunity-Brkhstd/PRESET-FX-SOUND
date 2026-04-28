@@ -18,7 +18,7 @@ Semua file preset di bawah ini bisa kamu temukan di dalam folder `preset/`.
 | **Lainnya** | `dangdut`, `pop`, `modern country`, `general` | Optimasi vokal, cengkok, dan keseimbangan frekuensi harian. |
 | **Electronic / Dance** | `bkb (kejut bahu)` | Power bass maksimal dengan Dynamic Boost tinggi untuk efek "kejut" yang dinamis. |
 | **Electronic Pop** | `alan walker` | Karakter atmosferik dengan lead synth tajam dan sub-bass yang empuk. |
-| **Nostalgia Band** | `indo band 2000an` | Optimasi vokal dan instrumen pop-rock khas era Wali, Noah, dan Ungu. |
+| **Nostalgia Band** | `pop rock` | Optimasi vokal dan instrumen pop-rock khas era Wali, Noah, dan Ungu. |
 | **Folk & Ballad** | `iwan fals` | Menonjolkan vokal bariton yang tebal dan tekstur instrumen harmonika yang garing. |
 | **Mellow & Relax** | `acoustic` | Fokus pada kejernihan petikan senar gitar dan vokal yang intim/hangat. |
 | **Reggae & Dub** | `reggae` | Low-end yang "gemuk" dan bulat dengan penekanan pada rhythm gitar "skank". |
