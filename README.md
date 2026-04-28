@@ -70,7 +70,7 @@ Punya tuningan yang lebih mantap atau punya settingan khusus untuk hardware tert
 
 ## ✒️ Creator
 Repositori ini dikelola oleh:
-- **Nama:** Bayu Abimanyu [Bayunity](https://github.com/Bayunity-Brkhstd)
+- **Nama:** Bayu [Bayunity](https://github.com/Bayunity-Brkhstd)
 - **Role:** wong gabut & Tech Enthusiast
 ---
 
