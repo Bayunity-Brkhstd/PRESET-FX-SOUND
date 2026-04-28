@@ -25,7 +25,7 @@ Semua file preset di bawah ini bisa kamu temukan di dalam folder `preset/`.
 | **Ska & Reggae** | `ska (tipe-x)` | Optimasi instrumen tiup (brass) yang tajam dan guitar skank yang garing. |
 | **Ska & Swing** | `doggie style (shaggydog)` | Mix groovy antara walking bass yang tebal dan brass section yang classy. |
 | **Hiphop & Koplo** | `hiphop dangdut (ndx aka)` | Kombinasi sub-bass 808 yang deep dengan hi-hats tajam khas trap/koplo. |
-| **Future Bass** | `neovaii` | Optimasi sub-bass dalam dan synth tinggi yang tajam untuk genre melodic trap/future bass. |
+| **Future Bass** | `Future Bass` | Optimasi sub-bass dalam dan synth tinggi yang tajam untuk genre melodic trap/future bass. |
 | **Rock & Punk** | `pop punk` | Optimasi gitar distorsi yang tebal dan snare drum yang snappy/garing. |
 | **Rock & Metal** | `symphonic metal` | Mix megah antara ketajaman orkestra (strings/choir) dan power distorsi metal. |
 ---
