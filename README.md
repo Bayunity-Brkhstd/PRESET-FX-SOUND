@@ -1,42 +1,49 @@
+[README_v2.md](https://github.com/user-attachments/files/27177825/README_v2.md)
 # PRESET-FX-SOUND 🎧
 
-Koleksi preset custom untuk **FxSound** yang dioptimasi khusus untuk berbagai genre musik, mulai dari Dangdut sampai Hard Bounce (BBHC). Dibuat untuk mendapatkan output audio yang lebih "nendang", jernih, dan bertenaga.
+Koleksi preset custom **FxSound (.fac)** yang dioptimasi secara presisi untuk berbagai genre musik, era, dan kebutuhan audio. Dibuat untuk memaksimalkan performa hardware audio kamu agar menghasilkan suara yang lebih bertenaga, jernih, dan berkarakter.
 
 ---
 
-## 🎹 Genre yang Tersedia
-Dalam folder `preset/`, kamu bakal nemuin settingan yang udah di-tweak untuk:
+## 🎹 Daftar Preset Tersedia
+Semua file preset di bawah ini bisa kamu temukan di dalam folder `preset/`.
 
-* **Dangdut:** Fokus pada *punch* kendang dan kejernihan vokal/cengkok.
-* **EDM / House:** Optimasi *smile curve* untuk *kick* yang solid dan *synth* yang *bright*.
-* **Drill:** *Sub-bass* yang dalam (808) dan *hi-hats* yang super renyah.
-* **Hard Bounce (BBHC):** Karakter "donk" yang membal dan *kick* yang dominan.
-* **Trap:** Fokus pada *808 sub-bass* dan *crisp hi-hats*.
-* **Breakbeat:** Optimasi *drum loop* agar terdengar *punchy* dan *snappy*.
-
----
-
-## 🚀 Cara Install
-1. Download file `.fac` dari folder [preset](preset/).
-2. Buka aplikasi **FxSound**.
-3. Klik ikon menu (garis tiga) di pojok kiri atas.
-4. Pilih **Import** dan cari file preset yang udah kamu download.
-5. *Enjoy the beat!*
+| Kategori | Nama Preset | Deskripsi Singkat |
+| :--- | :--- | :--- |
+| **Era & Vintage** | `70's`, `80's` | Karakter suara khas analog dan kehangatan era piringan hitam/kaset. |
+| **Electronic / Dance** | `edm`, `drop bbhc`, `breakbeat` | Fokus pada *kick* yang solid, *donk* bass, dan energi tinggi. |
+| **Urban / Hip-Hop** | `trap`, `trap metal`, `drill`, `rap` | Optimasi *808 sub-bass* yang dalam dan *hi-hats* yang tajam. |
+| **Rock & Metal** | `classic rock`, `modern rock`, `alt rock`, `metal` | Mempertegas distorsi gitar dan *power* pada drum. |
+| **Mellow & Relax** | `lo-fi`, `jazz`, `classical`, `r&b` | Menonjolkan detail instrumen dan suasana yang *chill*. |
+| **Lainnya** | `dangdut`, `pop`, `modern country`, `general` | Optimasi vokal, cengkok, dan keseimbangan frekuensi harian. |
 
 ---
 
-## 🛠️ Tech Stack & Tools
-* **Software:** [FxSound](https://www.fxsound.com/)
-* **Optimization:** Manual EQ Tuning & Dynamic Boost Calibration.
+## 🚀 Cara Penggunaan
+1. **Download:** Ambil file `.fac` yang kamu inginkan dari folder `preset/`.
+2. **Buka FxSound:** Pastikan aplikasi [FxSound](https://www.fxsound.com/) sudah terinstall di PC/Laptop kamu.
+3. **Import Preset:**
+   - Klik ikon **Menu** (garis tiga) di pojok kiri atas aplikasi.
+   - Pilih opsi **Import**.
+   - Pilih file `.fac` yang sudah kamu download tadi.
+4. **Selesai:** Nikmati kualitas audio yang sudah dioptimasi!
 
 ---
 
-## ✒️ About
-Repository ini dikelola oleh **Bayu Abimanyu** (**Bayunity**) sebagai bagian dari eksperimen audio di **BRKH Studio**. Fokus kami adalah menciptakan pengalaman audio terbaik untuk berbagai kebutuhan, baik untuk dengerin musik santai maupun *high-energy rave*.
+## 🛠️ Tech Stack
+- **Engine:** FxSound Audio Enhancer.
+- **Optimization:** Manual Parametric EQ Tuning, Dynamic Boost Calibration, & Clarity Enhancement.
 
 ---
 
-## 📄 License & Disclaimer
-Gunakan preset ini secara bijak. Hasil suara mungkin berbeda tergantung hardware (Speaker/Headphone) yang kamu gunakan. Feel free to fork and tweak!
+## ✒️ Creator
+Repositori ini dikembangkan dan dikelola oleh:
+- **Nama:** Bayu Abimanyu (**Bayunity**)
+- **Role:** orang gabut & Tech Enthusiast.
+
+---
+
+## 📄 Lisensi & Disclaimer
+Koleksi ini bersifat terbuka untuk digunakan secara pribadi. Hasil suara final sangat bergantung pada kualitas speaker atau headphone yang kamu gunakan. Jangan ragu untuk melakukan *tweak* lebih lanjut sesuai selera telinga masing-masing.
 
 Copyright (c) 2026 **BAYUNITY**.
